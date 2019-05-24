@@ -5,3 +5,5 @@ Hi Human!
 welcome to my space.
 
 My space closed now.
+
+When will my space reopen?
